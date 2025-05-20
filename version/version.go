@@ -7,7 +7,7 @@ import "fmt"
 
 const (
 	Version           = "0.39.1"
-	VersionPrerelease = "-build+1" // "-dev", "-beta", "-rc1", etc. (include dash)
+	VersionPrerelease = "-build+2" // "-dev", "-beta", "-rc1", etc. (include dash)
 )
 
 var (
